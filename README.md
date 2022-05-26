@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jomare22.
 - 👀 I’m interested in software and web development.
-- 🌱 I’m currently learning C#, SQL and HTML.
+- 🌱 I’m currently learning C#, SQL, HTML, CSS and Python.
 - 💞️ I’m looking to collaborate on small projects that are beginner-friendly.
 <!---- 📫 How to reach me ...--->
 
